@@ -1,4 +1,4 @@
-# MultiRegionDNSLookup
+# Multi-Region DNS Lookup
 Lookup DNS from multiple regions
 
 DNS propogation ideally takes about 3 days but can happen quicker in some regions leading one to falsely believe its done while visitors from the non-propagated regions are left high and dry. 
